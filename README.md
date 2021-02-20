@@ -7,7 +7,7 @@ peri_end = [datetime.date(2021,6,28),datetime.date(2021,8,26)]
 
 ```
 
-** Note: you can set for 2 term **
+**Note: you can set for 2 term**
 
 2. Check if the timetable time setting is correct.
 ```
