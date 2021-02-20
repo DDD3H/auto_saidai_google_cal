@@ -4,7 +4,6 @@
 ```
 peri_start = [datetime.date(2021,4,21),datetime.date(2021,7,1)]
 peri_end = [datetime.date(2021,6,28),datetime.date(2021,8,26)]
-
 ```
 
 **Note: you can set for 2 term**
@@ -17,3 +16,4 @@ class_time_end = [time(10,20),time(11,50),time(14,50),time(16,20),time(17,50)]
 
 3. Please output the CSV file according to the Excel file for the timetable setting. The first term is read as "0.csv" and the second term is read as "1.csv".
 4. Run "gl_cal.py" in Python
+5. A "gl.csv" that can be imported into a calendar app such as google will be generated. By loading it into your calendar, the subjects you have registered will be reflected in your calendar.
